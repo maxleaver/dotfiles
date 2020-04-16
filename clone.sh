@@ -9,6 +9,7 @@ git clone https://maxleaverlt@bitbucket.org/jmsenecal/vgt.git $REPOS/lwv-etp
 git clone https://maxleaver@bitbucket.org/lookthink/salesforce-salesforce-snippets.git $REPOS/salesforce-snippets
 git clone https://maxleaver@bitbucket.org/lookthink/lookthink-website.git $REPOS/lookthink-website
 git clone https://maxleaver@bitbucket.org/lookthink/wisconsin-project.git $REPOS/wisconsin-project
+git clone git@bitbucket.org:lookthink/salesforce-design-system-react.git $REPOS/salesforce-design-system-react
 git clone git@github.com:LookThink/frontend-coding-exercise.git $REPOS/interview-frontend-exercise
 git clone git@gitlab.com:lookthink/outvox.git $REPOS/outvox
 git clone git@gitlab.com:lookthink/nasem.git $REPOS/nasem
@@ -18,3 +19,4 @@ git clone git@gitlab.com:lookthink/icma-rc-design-system.git $REPOS/icma-rc
 git clone git@gitlab.com:lookthink/storybook-demo.git $REPOS/storybook-demo
 git clone git@gitlab.com:lookthink/sitemap-generator.git $REPOS/sitemap-generator
 git clone git@gitlab.com:lookthink/svg-sprite-generator.git $REPOS/svg-sprite-generator
+git clone git@gitlab.com:lookthink/uxpin-react-library.git $REPOS/uxpin-react-library
