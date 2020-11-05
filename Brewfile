@@ -4,11 +4,13 @@ tap 'homebrew/cask-eid'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
+tap 'drud/ddev'
 
 # Binaries
 brew 'awscli'
 brew 'bat' # "cat" on steroids
 brew 'coreutils' # Those that come with macOS are outdated
+brew 'ddev'
 brew 'dockutil' # Used to manage dock items later in the install
 brew 'ffmpeg'
 brew 'gh'
@@ -32,17 +34,20 @@ brew 'svgo'
 brew 'gifsicle'
 
 # Development
+brew 'docker'
 brew 'php'
 brew 'php@7.3'
 brew 'php@7.2'
 brew 'composer'
 brew 'imagemagick'
+brew 'maven'
 brew 'mysql'
 brew 'nginx'
 brew 'node'
 brew 'yarn'
 
 # Apps
+cask 'abstract'
 cask 'brave-browser'
 cask 'dropbox'
 cask 'firefox'
@@ -52,6 +57,7 @@ cask 'google-chrome'
 cask 'java'
 cask 'muse'
 cask 'mysqlworkbench'
+cask 'openemu'
 cask 'postman'
 cask 'sequel-pro'
 cask 'sketch'
@@ -65,6 +71,7 @@ cask 'virtualbox' # Might need to allow access in Security settings
 cask 'virtualbox-extension-pack'
 cask 'visual-studio-code'
 cask 'vlc'
+cask 'zoom'
 
 # Quicklook
 cask 'qlcolorcode'
