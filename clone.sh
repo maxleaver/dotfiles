@@ -6,6 +6,8 @@ REPOS=$HOME/Repositories
 
 git clone https://maxleaverlt@bitbucket.org/panthtech/generic-drupal.git $REPOS/lwv-vote411
 git clone https://maxleaverlt@bitbucket.org/jmsenecal/vgt.git $REPOS/lwv-etp
+git clone https://maxleaver@bitbucket.org/lookthink/aiga.git $REPOS/aiga
+git clone https://maxleaver@bitbucket.org/lookthink/flamboyan.git $REPOS/flamboyan
 git clone https://maxleaver@bitbucket.org/lookthink/salesforce-salesforce-snippets.git $REPOS/salesforce-snippets
 git clone https://maxleaver@bitbucket.org/lookthink/lookthink-website.git $REPOS/lookthink-website
 git clone https://maxleaver@bitbucket.org/lookthink/wisconsin-project.git $REPOS/wisconsin-project
